@@ -5,3 +5,17 @@ It's typically used for standalone blocks of text, such as paragraphs, lists, or
 
 <article>: This element is used to define a self-contained piece of content that could be distributed and reused independently.
 It's often used for blog posts, news articles, forum posts, or any other content that can stand alone and be syndicated.
+
+2) The difference between div and section in HTML5 is?
+
+<div> (Division):
+The <div> element is a generic container used to group content for styling purposes or to apply common properties using CSS.
+It doesn't carry any specific semantic meaning on its own.
+It's commonly used to create divisions or sections within a webpage and is often used as a building block for layout structure.
+While <div> is versatile and can be used for various purposes, it doesn't convey any specific meaning about the content it contains.
+
+<section>:
+The <section> element is used to define a thematic grouping of content within a document.
+It represents a standalone section of content that is thematically related and can be considered as a self-contained unit.
+<section> is semantically meaningful and helps to structure the document in a way that aids accessibility and search engine optimization (SEO). It's often used to divide the content of a webpage into different sections, such as chapters, articles, or parts of an application
+
