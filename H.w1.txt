@@ -1,0 +1,4 @@
+1)The difference between article and p in HTML5 is?
+<p> (Paragraph): This element is used to define a paragraph of text. It's typically used for standalone blocks of text, such as paragraphs, lists, or other textual content within a document.
+
+<article>: This element is used to define a self-contained piece of content that could be distributed and reused independently. It's often used for blog posts, news articles, forum posts, or any other content that can stand alone and be syndicated.
